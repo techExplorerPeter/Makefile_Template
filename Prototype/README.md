@@ -38,3 +38,6 @@ Prototype
 │  ├─Script                         // python and other scripts
 │  └─...                            //
 └─README.md                         // readme
+
+# Platform Project tips
+-   
